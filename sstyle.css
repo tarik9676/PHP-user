@@ -1,0 +1,23 @@
+body {
+    background: #e4e4e4;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 1.6em
+}
+
+.container {
+    margin: auto;
+    margin-top: 50px;
+    width: 80%;
+}
+
+button {
+    background-color: #0a8b20;
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-weight: bold
+}
+
+a {
+    color: white
+}
